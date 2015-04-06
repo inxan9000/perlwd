@@ -1,0 +1,1 @@
+This was an application that I started as a teach-yourself-how-things-work type of project. It got more and more advanced, and I started using more and more Perl modules for cooler features. Then G0d0t from the PLA Forums helped me out by adding supoprt for threading on multiprocessors in the Perl code itself. This was a fun project.
